@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:fluent/app.dart';
+import 'package:fluent/fluent.dart';
 
 void main() => runApp(FluentApp());
 
